@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pkl
+
+# Data / OS noise
+.DS_Store
+Thumbs.db
+
+# Flask
+instance/
+*.log
+
+# Environment
+.env
+.venv
+
+# Virtual environments
+venv/
+.venv/
+
+# Node / React / Vite
+node_modules/
+dist/
+build/
+.vite/
