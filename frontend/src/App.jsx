@@ -277,7 +277,7 @@ export default function App() {
     
       {/* ===== HEADER ===== */}
       <header className="mb-8">
-        <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">
+        <h1 className="text-4xl md:text-5xl font-bold text-white mb-8">
           🏥 Disease Diagnosis System
         </h1>
         <div className="bg-yellow-900/20 border border-yellow-700 rounded-lg p-4 mb-6 mt-px">
