@@ -93,7 +93,7 @@ npm run dev
 
 A full technical breakdown (data preprocessing, modeling assumptions, architecture decisions, limitations, and future improvements) is documented separately:
 
-👉 Medium post: <i>(link coming soon)</i>
+👉 Medium post: <a href="https://medium.com/@noeflo8006/why-accuracy-alone-fails-in-medical-machine-learning-db918d3a81cf">Why Accuracy Alone Fails in Medical Machine Learning</a>
 
  ## Disclaimer
 
