@@ -15,6 +15,12 @@ This project is an end-to-end disease diagnosis and risk visualization system th
 
 The goal of this project is not only prediction, but interpretability and communication of model behavior.
 
+## 📄 Technical Write‑Up
+
+A full technical breakdown (data preprocessing, modeling assumptions, architecture decisions, limitations, and future improvements) is documented separately:
+
+👉 Medium post: <a href="https://medium.com/@noeflo8006/why-accuracy-alone-fails-in-medical-machine-learning-db918d3a81cf">Why Accuracy Alone Fails in Medical Machine Learning</a>
+
 ## 📊 Model Performance
 
 - Accuracy: ~95% on held-out test data
@@ -88,12 +94,6 @@ npm run dev
 
 5. Frontend renders results with interactive charts
 
-
-## 📄 Technical Write‑Up
-
-A full technical breakdown (data preprocessing, modeling assumptions, architecture decisions, limitations, and future improvements) is documented separately:
-
-👉 Medium post: <a href="https://medium.com/@noeflo8006/why-accuracy-alone-fails-in-medical-machine-learning-db918d3a81cf">Why Accuracy Alone Fails in Medical Machine Learning</a>
 
  ## Disclaimer
 
