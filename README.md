@@ -50,7 +50,7 @@ A full technical breakdown (data preprocessing, modeling assumptions, architectu
 - REST API architecture
 
 ***Machine Leaning***
-- Support Vector Machine (SVM) classifier
+- Support Vector Machine (SVM) classifier (scikit-learn)
 - Custom symptom feature encoding
 - Probabilistic disease prediction (~95% accuracy)
 
